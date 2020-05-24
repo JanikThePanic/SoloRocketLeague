@@ -1,3 +1,0 @@
-D:\GitHub\SoloRocketLeague\Unreal Project\SoloRocketLeague\Intermediate\Build\Win64\UE4Editor\Development\SoloRocketLeague\Definitions.SoloRocketLeague.h
-D:\Software\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Software\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\GitHub\\SoloRocketLeague\\Unreal Project\\SoloRocketLeague\\Source\\SoloRocketLeague\\SoloRocketLeague.Build.cs",
-		"D:\\GitHub\\SoloRocketLeague\\Unreal Project\\SoloRocketLeague\\Source\\SoloRocketLeague.Target.cs",
-		"D:\\GitHub\\SoloRocketLeague\\Unreal Project\\SoloRocketLeague\\Source\\SoloRocketLeagueEditor.Target.cs"
-	],
-	"EngineVersion": "4.25.0"
-}
