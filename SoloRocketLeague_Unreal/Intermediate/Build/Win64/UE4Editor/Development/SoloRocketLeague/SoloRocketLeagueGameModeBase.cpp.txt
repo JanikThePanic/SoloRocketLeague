@@ -1,0 +1,7 @@
+D:\GitHub\SoloRocketLeague\Unreal Project\SoloRocketLeague\Intermediate\Build\Win64\UE4Editor\Development\SoloRocketLeague\Definitions.SoloRocketLeague.h
+D:\GitHub\SoloRocketLeague\Unreal Project\SoloRocketLeague\Source\SoloRocketLeague\SoloRocketLeagueGameModeBase.h
+D:\Software\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Software\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Software\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Software\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\GitHub\SoloRocketLeague\Unreal Project\SoloRocketLeague\Intermediate\Build\Win64\UE4Editor\Inc\SoloRocketLeague\SoloRocketLeagueGameModeBase.generated.h

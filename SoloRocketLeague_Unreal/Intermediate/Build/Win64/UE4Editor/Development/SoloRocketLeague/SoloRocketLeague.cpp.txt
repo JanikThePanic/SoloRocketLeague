@@ -1,0 +1,2 @@
+D:\GitHub\SoloRocketLeague\Unreal Project\SoloRocketLeague\Intermediate\Build\Win64\UE4Editor\Development\SoloRocketLeague\Definitions.SoloRocketLeague.h
+D:\GitHub\SoloRocketLeague\Unreal Project\SoloRocketLeague\Source\SoloRocketLeague\SoloRocketLeague.h
