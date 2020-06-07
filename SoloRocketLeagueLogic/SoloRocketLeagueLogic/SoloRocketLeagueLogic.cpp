@@ -5,12 +5,14 @@
 #include "framework.h"
 #include "SoloRocketLeagueLogic.h"
 
+int currentScore = 0;
 
-// This is an example of an exported variable
-SOLOROCKETLEAGUELOGIC_API int nSoloRocketLeagueLogic=0;
-
-// This is an example of an exported function.
-SOLOROCKETLEAGUELOGIC_API int fnSoloRocketLeagueLogic(void)
+DLL_EXPORT int getScore()
 {
-    return 0;
+	return currentScore;
+}
+
+DLL_EXPORT void setScore(int amount)
+{
+	currentScore = amount;
 }

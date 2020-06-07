@@ -4,13 +4,14 @@
 // that uses this DLL. This way any other project whose source files include this file see
 // SOLOROCKETLEAGUELOGIC_API functions as being imported from a DLL, whereas this DLL sees symbols
 // defined with this macro as being exported.
-#ifdef SOLOROCKETLEAGUELOGIC_EXPORTS
-#define SOLOROCKETLEAGUELOGIC_API __declspec(dllexport)
-#else
-#define SOLOROCKETLEAGUELOGIC_API __declspec(dllimport)
-#endif
+#define DLL_EXPORT __declspec(dllexport)
 
 
-extern SOLOROCKETLEAGUELOGIC_API int nSoloRocketLeagueLogic;
+//extern DLL_EXPORT int nSoloRocketLeagueLogic;
 
-SOLOROCKETLEAGUELOGIC_API int fnSoloRocketLeagueLogic(void);
+//DLL_EXPORT int fnSoloRocketLeagueLogic(void);
+
+DLL_EXPORT int getScore();
+DLL_EXPORT void setScore(int amount);
+
+
